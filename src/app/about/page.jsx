@@ -1,4 +1,5 @@
 // src/components/About.jsx
+import Head from "next/head";
 import React from "react";
 
 const About = () => {
